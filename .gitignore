@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.obj
+*.o
+
+# Debug symbols
+*.pdb
+
+# IDE/editor local files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
